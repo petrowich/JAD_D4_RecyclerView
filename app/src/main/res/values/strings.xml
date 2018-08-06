@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">JAD_D4_RecyclerView</string>
+
+    <string-array name="cities">
+        <item>Санкт-Петербург</item>
+        <item>Москва</item>
+        <item>Рейкьявик</item>
+        <item>Нью-Йорк</item>
+        <item>Париж</item>
+        <item>Дубаи</item>
+        <item>Ванкувер</item>
+        <item>Марс</item>
+    </string-array>
+
+    <string-array name="forecasts">
+        <item>Солнечно</item>
+        <item>Облачно</item>
+        <item>Гололёд</item>
+        <item>Жара</item>
+        <item>Дожди</item>
+        <item>Не жарко</item>
+        <item>Возьмите ушанку</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="temperatures">
+        <item>30</item>
+        <item>27</item>
+        <item>-5</item>
+        <item>40</item>
+        <item>22</item>
+        <item>20</item>
+        <item>-15</item>
+        <item>-200</item>
+    </string-array>
+
+</resources>
